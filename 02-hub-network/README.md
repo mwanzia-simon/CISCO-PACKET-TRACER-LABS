@@ -71,6 +71,3 @@ This lab demonstrated how a hub connects multiple computers and repeats incoming
 
 Modern Ethernet networks generally use switches instead of hubs because switches can forward frames to the appropriate ports, reducing unnecessary traffic.
 
----
-
-**Lab Status:** Completed

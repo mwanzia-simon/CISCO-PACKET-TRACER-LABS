@@ -68,6 +68,3 @@ Key characteristics:
 
 This lab provided practical experience building a switched LAN with five computers. It demonstrated how switches use MAC addresses to forward Ethernet frames more selectively than hubs, improving the efficiency of local network communication.
 
----
-
-**Lab Status:** Completed

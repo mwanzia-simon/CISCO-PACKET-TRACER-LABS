@@ -92,6 +92,3 @@ Add your topology and connectivity screenshots to the `screenshots/` folder.
 
 This lab demonstrated how a router connects two separate LANs and enables communication between devices on different subnets. It reinforced the importance of IP addressing, default gateways, and router interface configuration in network communication.
 
----
-
-**Lab Status:** Completed

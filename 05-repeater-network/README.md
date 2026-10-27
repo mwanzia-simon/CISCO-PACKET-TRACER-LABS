@@ -85,6 +85,3 @@ This lab provided practical experience using a repeater in Cisco Packet Tracer. 
 
 It also reinforced the distinction between Layer 1 devices, which handle physical signals, and Layer 2 switches, which forward Ethernet frames.
 
----
-
-**Lab Status:** Completed

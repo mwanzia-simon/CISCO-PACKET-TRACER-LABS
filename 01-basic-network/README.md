@@ -61,6 +61,3 @@ Successful ping replies confirm that the computers can communicate over the dire
 
 This lab provided practical experience building a simple network between two computers. It demonstrated how IP addressing and a direct physical connection allow devices on the same subnet to communicate without a router.
 
----
-
-**Lab Status:** Completed
