@@ -24,7 +24,7 @@ Using Cisco Packet Tracer, five computers were connected to a single switch and 
 | PC3 | `10.10.10.4` |
 | PC4 | `10.10.10.5` |
 
-All five computers are configured within the same subnet, assuming a subnet mask of `255.255.255.0`.
+All five computers are configured within the same subnet, assuming a subnet mask of `255.0.0.0`.
 
 ##  Implementation Steps
 
