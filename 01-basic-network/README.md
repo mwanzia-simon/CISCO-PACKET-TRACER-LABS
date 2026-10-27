@@ -6,7 +6,7 @@ This lab demonstrates how to establish direct communication between two computer
 
 The goal is to verify connectivity between the two devices using the `ping` command.
 
-## 🛠️ Network Setup
+##  Network Setup
 
 - **Tool:** Cisco Packet Tracer
 - **Devices:** 2 PCs
