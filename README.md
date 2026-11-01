@@ -2,6 +2,8 @@
 
 A collection of hands-on networking labs created using **Cisco Packet Tracer** as I learn and explore computer networking.
 
+![banner_image](./docs/banner_image.jpg)
+
 ##  Objectives
 
 - Understand fundamental networking concepts.
