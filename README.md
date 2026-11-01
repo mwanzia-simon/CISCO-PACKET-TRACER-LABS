@@ -31,7 +31,12 @@ Labs will be added as I progress through my networking journey.
 
 | Lab | Description | Status |
 |---|---|---|
-| Basic Network | Connecting devices in a simple network | In progress |
+| Basic Network | Connecting devices in a simple network | Done |
+| Hub network | connection mutiple devices in a LAN using an hub | Done |
+| Switch network | connection mutiple devices in a LAN using a switch | Done |
+| Router network | connection two LAN networks using a router | Done |
+| Repeater network | regenerate and retransmit signals between two network segments | Done |
+| WAP network | connection mutiple devices in a LAN using a WAP | In Progress |
 
 ##  Tools
 
